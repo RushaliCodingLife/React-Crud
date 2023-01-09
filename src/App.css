@@ -1,0 +1,49 @@
+.MuiInputLabel-root {
+
+  color: grey !important;
+
+  margin-top: 2px !important;
+
+}
+
+.MuiFilledInput-root {
+
+  border-radius: 10px !important;
+
+  color: black !important;
+
+}
+
+.MuiFilledInput-root:before {
+
+  border-bottom: 0 !important;
+
+}
+
+.MuiFilledInput-root:after {
+
+  border-bottom: 0 !important;
+
+}
+
+.MuiFilledInput-root:focus-within {
+
+  background-color: #ffd68a !important;
+
+}
+
+.MuiFilledInput-input:-webkit-autofill {
+
+  -webkit-text-fill-color: black !important;
+
+  border-radius: 10px !important;
+
+  box-shadow: none !important;
+
+}
+
+.MuiFilledInput-root:hover {
+
+  background-color: #ffd68a !important;
+
+}
